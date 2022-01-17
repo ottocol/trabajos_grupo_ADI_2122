@@ -1,0 +1,262 @@
+[
+    {
+        "autonomia_id": "08",
+        "provincia_id": "02",
+        "nombre": "Albacete"
+    },
+    {
+        "autonomia_id": "10",
+        "provincia_id": "03",
+        "nombre": "Alicante/Alacant"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "04",
+        "nombre": "Almería"
+    },
+    {
+        "autonomia_id": "16",
+        "provincia_id": "01",
+        "nombre": "Araba/Álava"
+    },
+    {
+        "autonomia_id": "03",
+        "provincia_id": "33",
+        "nombre": "Asturias"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "05",
+        "nombre": "Ávila"
+    },
+    {
+        "autonomia_id": "11",
+        "provincia_id": "06",
+        "nombre": "Badajoz"
+    },
+    {
+        "autonomia_id": "04",
+        "provincia_id": "07",
+        "nombre": "Balears, Illes"
+    },
+    {
+        "autonomia_id": "09",
+        "provincia_id": "08",
+        "nombre": "Barcelona"
+    },
+    {
+        "autonomia_id": "16",
+        "provincia_id": "48",
+        "nombre": "Bizkaia"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "09",
+        "nombre": "Burgos"
+    },
+    {
+        "autonomia_id": "11",
+        "provincia_id": "10",
+        "nombre": "Cáceres"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "11",
+        "nombre": "Cádiz"
+    },
+    {
+        "autonomia_id": "06",
+        "provincia_id": "39",
+        "nombre": "Cantabria"
+    },
+    {
+        "autonomia_id": "10",
+        "provincia_id": "12",
+        "nombre": "Castellón/Castelló"
+    },
+    {
+        "autonomia_id": "08",
+        "provincia_id": "13",
+        "nombre": "Ciudad Real"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "14",
+        "nombre": "Córdoba"
+    },
+    {
+        "autonomia_id": "12",
+        "provincia_id": "15",
+        "nombre": "Coruña, A"
+    },
+    {
+        "autonomia_id": "08",
+        "provincia_id": "16",
+        "nombre": "Cuenca"
+    },
+    {
+        "autonomia_id": "16",
+        "provincia_id": "20",
+        "nombre": "Gipuzkoa"
+    },
+    {
+        "autonomia_id": "09",
+        "provincia_id": "17",
+        "nombre": "Girona"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "18",
+        "nombre": "Granada"
+    },
+    {
+        "autonomia_id": "08",
+        "provincia_id": "19",
+        "nombre": "Guadalajara"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "21",
+        "nombre": "Huelva"
+    },
+    {
+        "autonomia_id": "02",
+        "provincia_id": "22",
+        "nombre": "Huesca"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "23",
+        "nombre": "Jaén"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "24",
+        "nombre": "León"
+    },
+    {
+        "autonomia_id": "09",
+        "provincia_id": "25",
+        "nombre": "Lleida"
+    },
+    {
+        "autonomia_id": "12",
+        "provincia_id": "27",
+        "nombre": "Lugo"
+    },
+    {
+        "autonomia_id": "13",
+        "provincia_id": "28",
+        "nombre": "Madrid"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "29",
+        "nombre": "Málaga"
+    },
+    {
+        "autonomia_id": "14",
+        "provincia_id": "30",
+        "nombre": "Murcia"
+    },
+    {
+        "autonomia_id": "15",
+        "provincia_id": "31",
+        "nombre": "Navarra"
+    },
+    {
+        "autonomia_id": "12",
+        "provincia_id": "32",
+        "nombre": "Ourense"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "34",
+        "nombre": "Palencia"
+    },
+    {
+        "autonomia_id": "05",
+        "provincia_id": "35",
+        "nombre": "Palmas, Las"
+    },
+    {
+        "autonomia_id": "12",
+        "provincia_id": "36",
+        "nombre": "Pontevedra"
+    },
+    {
+        "autonomia_id": "17",
+        "provincia_id": "26",
+        "nombre": "Rioja, La"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "37",
+        "nombre": "Salamanca"
+    },
+    {
+        "autonomia_id": "05",
+        "provincia_id": "38",
+        "nombre": "Santa Cruz de Tenerife"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "40",
+        "nombre": "Segovia"
+    },
+    {
+        "autonomia_id": "01",
+        "provincia_id": "41",
+        "nombre": "Sevilla"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "42",
+        "nombre": "Soria"
+    },
+    {
+        "autonomia_id": "09",
+        "provincia_id": "43",
+        "nombre": "Tarragona"
+    },
+    {
+        "autonomia_id": "02",
+        "provincia_id": "44",
+        "nombre": "Teruel"
+    },
+    {
+        "autonomia_id": "08",
+        "provincia_id": "45",
+        "nombre": "Toledo"
+    },
+    {
+        "autonomia_id": "10",
+        "provincia_id": "46",
+        "nombre": "Valencia/València"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "47",
+        "nombre": "Valladolid"
+    },
+    {
+        "autonomia_id": "07",
+        "provincia_id": "49",
+        "nombre": "Zamora"
+    },
+    {
+        "autonomia_id": "02",
+        "provincia_id": "50",
+        "nombre": "Zaragoza"
+    },
+    {
+        "autonomia_id": "18",
+        "provincia_id": "51",
+        "nombre": "Ceuta"
+    },
+    {
+        "autonomia_id": "19",
+        "provincia_id": "52",
+        "nombre": "Melilla"
+    }
+]

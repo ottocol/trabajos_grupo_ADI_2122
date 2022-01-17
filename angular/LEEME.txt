@@ -1,0 +1,11 @@
+Te compartimos el enlace del repositorio de github con el código del proyecto,
+ya que por tema de tamaño no nos dejaba compartírtelo directamente a través de Moodle:
+https://github.com/JoseAlberola/ADIAngular.git
+
+Para ejecutar el proyecto:
+1. Nos movemos al directorio adi-ang/ 
+2. Hacemos npm i
+3. Hacemos ng serve
+4. Y ejecutamos en nuestro navegador el proyecto -> http://localhost:4200
+
+Enlace al video: https://drive.google.com/file/d/1G4vMS-zDOoRrvhkxPQvFLdMJZ9OvYvrG/view?usp=sharing
