@@ -1,6 +1,3 @@
-# Trabajos en grupo de la asignatura de Aplicaciones Distribuídas en Internet
-## Universidad de Alicante, curso 2021-22
-
 
 ## Procedimiento para las votaciones
 
