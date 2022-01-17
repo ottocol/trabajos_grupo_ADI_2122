@@ -4,7 +4,7 @@
 
 ## Procedimiento para las votaciones
 
-- El plazo de votaciones concluye el miércoles 26 de enero a las 23:59
+- El plazo de votaciones concluye el 26 de enero a las 23:59
 - Las votaciones hay que enviarlas mediante tutoría de uno de los componentes del grupo
 - Cada grupo puede asignar 11 puntos a los trabajos del resto de grupos, solo se puede puntuar con 2 puntos, 1 punto o no asignar. 
 - Cada grupo que vote al resto tiene 0,5 puntos más en el trabajo
@@ -14,7 +14,7 @@
 
 ## Listado de los trabajos
 
-> Los trabajos están listados por orden de fecha de entrega
+> Los trabajos están listados por orden de fecha de entrega. **IMPORTANTE: cada grupo comprobad por favor que los enlaces están bien y no falta ninguno**
 
 
 ## ReactJS y NextJS
@@ -108,7 +108,7 @@
 ### Carlos Poveda Cañizares, Adil Akhazzan
 
 - [Documento](intro_angular/intro_angular.pdf)
-- [Video](ttps://drive.google.com/file/d/1myX5gtXCnzWZtHXiUzPVwayjP62onf-c/view?usp=sharing)
+- [Video](https://drive.google.com/file/d/1myX5gtXCnzWZtHXiUzPVwayjP62onf-c/view?usp=sharing)
 - [Código de ejemplo](intro_angular/codigo.zip)
 
 
