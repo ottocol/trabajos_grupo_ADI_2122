@@ -4,3 +4,6 @@
 @import "{{ site.theme }}";
 
 h3 {color:gray}
+ul li {
+    list-style-position: inside;
+}
